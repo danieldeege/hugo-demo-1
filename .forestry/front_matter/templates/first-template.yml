@@ -9,3 +9,4 @@ fields:
   description: Type your text here
 pages:
 - content/homepage.md
+- content/contact.md
