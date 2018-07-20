@@ -2,6 +2,9 @@
 date = "2018-07-20T14:24:53+00:00"
 draft = true
 title = "Homepage"
+[menu.icon]
+name = "Home"
+weight = 2
 
 +++
 We'll explain something about our cool **_product XYZ_** here:
