@@ -5,10 +5,6 @@ languageCode = "en-us"
 theme = "minimal"
 title = "Minimal"
 [[menu.icon]]
-name = "stack-overflow"
-url = "https://www.stackoverflow.com/username/"
-weight = 5
-[[menu.icon]]
 name = "envelope-o"
 url = "mailto:me@example.com"
 weight = 1
