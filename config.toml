@@ -8,18 +8,6 @@ title = "Minimal"
 name = "envelope-o"
 url = "mailto:me@example.com"
 weight = 1
-[[menu.main]]
-name = "Projects"
-url = "/project/"
-weight = 3
-[[menu.main]]
-name = "Posts"
-url = "/post/"
-weight = 2
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
 [params]
 accent = "red"
 author = "Calin Tataru"

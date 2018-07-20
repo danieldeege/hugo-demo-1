@@ -4,6 +4,8 @@ draft = true
 title = "FAQ"
 [menu.icon]
 weight = 4
+[menu.main]
+weight = 3
 
 +++
 1. Question?

@@ -5,6 +5,9 @@ title = "Homepage"
 [menu.icon]
 name = "Home"
 weight = 2
+[menu.main]
+name = "Home"
+weight = 1
 
 +++
 We'll explain something about our cool **_product XYZ_** here:

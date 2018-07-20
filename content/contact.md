@@ -4,6 +4,8 @@ draft = true
 title = "Contact"
 [menu.icon]
 weight = 3
+[menu.main]
+weight = 2
 
 +++
 Call us!
