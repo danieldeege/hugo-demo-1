@@ -3,7 +3,7 @@ date = "2018-07-20T14:24:53+00:00"
 title = "Homepage"
 [menu.icon]
 name = "Home"
-weight = 2
+weight = 1
 [menu.main]
 name = "Home"
 weight = 1

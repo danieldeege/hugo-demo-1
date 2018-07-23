@@ -4,10 +4,6 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
 title = "Minimal"
-[[menu.icon]]
-name = "envelope-o"
-url = "mailto:me@example.com"
-weight = 1
 [params]
 accent = "red"
 author = "Calin Tataru"
