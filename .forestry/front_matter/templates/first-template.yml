@@ -8,6 +8,7 @@ fields:
   name: title
   description: Type your text here
 pages:
+- content/new-page.md
 - content/homepage.md
 - content/contact.md
 - content/faq.md
